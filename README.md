@@ -1,5 +1,7 @@
 # ivPID
 
+Note: This is a modification of Ivmech's PID Controller, https://github.com/ivmech/ivPID/, containing a blank __init__.py file so that ivPID can be used as a module.
+
 http://ivmech.github.io/ivPID
 
 Ivmech PID Controller is simple implementation of a Proportional-Integral-Derivative (PID) Controller in the Python Programming Language.
